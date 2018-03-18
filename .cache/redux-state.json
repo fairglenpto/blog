@@ -1,0 +1,2650 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "path": "/dev-404-page/",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "90a2f14f790ec437d6c723bfd664cee9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a901d9d0b4c4f814ae69ff57f8886a87",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "95f972a8d695a9ce86210bc945ecdfe5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ff47412c5b84059aa37f712e9a9815f3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "236eb35e81316cc300ea7070d3c689ad",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "07b24673acc34153291af70f119f9434",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "35bd3a09010812b367f91aec6ecc3292",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-styled-components": {
+      "resolve": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby-plugin-styled-components",
+      "id": "Plugin gatsby-plugin-styled-components",
+      "name": "gatsby-plugin-styled-components",
+      "version": "2.0.9",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "replaceRenderer"
+      ],
+      "pluginFilepath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby-plugin-styled-components",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-components",
+        "description": "Gatsby plugin to add support for styled components",
+        "version": "2.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-components"
+        ],
+        "author": {
+          "name": "Guten Ye",
+          "email": "ywzhaifei@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "styled-components",
+            "version": ">= 2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8496035f596396be797ef3114d1103d7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.27",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "img",
+        "path": "C:\\Users\\nelsons\\Documents\\GitHub\\Gatsby\\fairglen-blog/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.27",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c5f70582af3f76984ca8d39629cf71bf",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.36",
+      "pluginOptions": {
+        "plugins": [],
+        "excerpt_separator": "<!-- end -->"
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.36",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "eaf7f89e23416ebeb4adf5775c878ac6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.22",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.22",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^3.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "13141ef5e0f1e88cdb03e9ae1cea5bd0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.41",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.41",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^3.2.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "36afb25018795b87abe7e20a6020f45f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "62195f7665ddd4178e5d6b43604d1367",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.223"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^1.0.42"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.38"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.41"
+          },
+          {
+            "name": "gatsby-plugin-styled-components",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.27"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.36"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.22"
+          },
+          {
+            "name": "npm",
+            "version": "^5.7.1"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "styled-components",
+            "version": "^3.2.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "gh-pages",
+            "version": "^1.1.0"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.11.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f9bef0a5602c95bbedc2867f863d3456",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Fairglen Elementary Parent Teacher Organization",
+        "desc": "Parents and teachers working together for our children"
+      },
+      "pathPrefix": "/gatsby",
+      "polyfill": true,
+      "buildTime": "2018-03-18T17:10:23.187Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "650a86400c1690172f4c66ebbc945477",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/ absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/ absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d5984735f2293e5ab82e7ea0f4edf29e",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-03-15T18:20:39.448Z",
+      "accessTime": "2018-03-15T18:20:39.448Z",
+      "changeTime": "2018-03-15T18:20:39.448Z",
+      "birthTime": "2018-03-12T21:59:39.931Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog",
+      "base": "src",
+      "ext": "",
+      "name": "src",
+      "relativeDirectory": "..",
+      "dev": 3774755464,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 57139420272366130,
+      "atimeMs": 1521138039448.0522,
+      "mtimeMs": 1521138039448.0522,
+      "ctimeMs": 1521138039448.0522,
+      "birthtimeMs": 1520891979931.1833,
+      "atime": "2018-03-15T18:20:39.448Z",
+      "mtime": "2018-03-15T18:20:39.448Z",
+      "ctime": "2018-03-15T18:20:39.448Z",
+      "birthtime": "2018-03-12T21:59:39.931Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dede72390d0f8fe79eaff37e0dfbc4ac",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "relativePath": "images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-03-17T15:58:14.038Z",
+      "accessTime": "2018-03-17T15:58:14.038Z",
+      "changeTime": "2018-03-17T15:58:14.038Z",
+      "birthTime": "2018-03-13T18:00:49.262Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "",
+      "dev": 3774755464,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 10696049115077692,
+      "atimeMs": 1521302294038.3503,
+      "mtimeMs": 1521302294038.3503,
+      "ctimeMs": 1521302294038.3503,
+      "birthtimeMs": 1520964049261.5862,
+      "atime": "2018-03-17T15:58:14.038Z",
+      "mtime": "2018-03-17T15:58:14.038Z",
+      "ctime": "2018-03-17T15:58:14.038Z",
+      "birthtime": "2018-03-13T18:00:49.262Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b1ff117ec2b87d1ca341a3b838a7eea7",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components",
+      "relativePath": "components",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-03-15T18:22:41.124Z",
+      "accessTime": "2018-03-15T18:22:41.124Z",
+      "changeTime": "2018-03-15T18:22:41.124Z",
+      "birthTime": "2018-03-12T21:59:39.932Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src",
+      "base": "components",
+      "ext": "",
+      "name": "components",
+      "relativeDirectory": "",
+      "dev": 3774755464,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 46443371157361256,
+      "atimeMs": 1521138161124.0796,
+      "mtimeMs": 1521138161124.0796,
+      "ctimeMs": 1521138161124.0796,
+      "birthtimeMs": 1520891979931.684,
+      "atime": "2018-03-15T18:22:41.124Z",
+      "mtime": "2018-03-15T18:22:41.124Z",
+      "ctime": "2018-03-15T18:22:41.124Z",
+      "birthtime": "2018-03-12T21:59:39.932Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9362865a6229e8487423d317b01a60bf",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages",
+      "relativePath": "pages",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-03-15T18:21:21.224Z",
+      "accessTime": "2018-03-15T18:21:21.224Z",
+      "changeTime": "2018-03-15T18:21:21.224Z",
+      "birthTime": "2018-03-12T21:59:39.937Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "",
+      "dev": 3774755464,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 38280596832752430,
+      "atimeMs": 1521138081224.2378,
+      "mtimeMs": 1521138081224.2378,
+      "ctimeMs": 1521138081224.2378,
+      "birthtimeMs": 1520891979937.1853,
+      "atime": "2018-03-15T18:21:21.224Z",
+      "mtime": "2018-03-15T18:21:21.224Z",
+      "ctime": "2018-03-15T18:21:21.224Z",
+      "birthtime": "2018-03-12T21:59:39.937Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/layouts absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/layouts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "33f080b31777e3c2b7c80e220f39238e",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/layouts",
+      "relativePath": "layouts",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-03-12T21:59:39.937Z",
+      "accessTime": "2018-03-12T21:59:39.937Z",
+      "changeTime": "2018-03-12T21:59:39.937Z",
+      "birthTime": "2018-03-12T21:59:39.935Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src",
+      "base": "layouts",
+      "ext": "",
+      "name": "layouts",
+      "relativeDirectory": "",
+      "dev": 3774755464,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 38280596832752300,
+      "atimeMs": 1520891979936.684,
+      "mtimeMs": 1520891979936.684,
+      "ctimeMs": 1520891979936.684,
+      "birthtimeMs": 1520891979935.1833,
+      "atime": "2018-03-12T21:59:39.937Z",
+      "mtime": "2018-03-12T21:59:39.937Z",
+      "ctime": "2018-03-12T21:59:39.937Z",
+      "birthtime": "2018-03-12T21:59:39.935Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8dee6da3dbd0a239afb7814507b26f41",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts",
+      "relativePath": "posts",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-03-16T12:03:26.816Z",
+      "accessTime": "2018-03-16T12:03:26.816Z",
+      "changeTime": "2018-03-16T12:03:26.816Z",
+      "birthTime": "2018-03-15T18:20:39.448Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "",
+      "dev": 3774755464,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3377699720971703,
+      "atimeMs": 1521201806816.2927,
+      "mtimeMs": 1521201806816.2927,
+      "ctimeMs": 1521201806816.2927,
+      "birthtimeMs": 1521138039448.0522,
+      "atime": "2018-03-16T12:03:26.816Z",
+      "mtime": "2018-03-16T12:03:26.816Z",
+      "ctime": "2018-03-16T12:03:26.816Z",
+      "birthtime": "2018-03-15T18:20:39.448Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components/Posts absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components/Posts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "13255d149414d32dba0016271fdcea2b",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components/Posts",
+      "relativePath": "components/Posts",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-03-15T18:23:31.224Z",
+      "accessTime": "2018-03-15T18:23:31.224Z",
+      "changeTime": "2018-03-15T18:23:31.224Z",
+      "birthTime": "2018-03-15T18:22:41.124Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components",
+      "base": "Posts",
+      "ext": "",
+      "name": "Posts",
+      "relativeDirectory": "components",
+      "dev": 3774755464,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3940649674461273,
+      "atimeMs": 1521138211223.7632,
+      "mtimeMs": 1521138211223.7632,
+      "ctimeMs": 1521138211223.7632,
+      "birthtimeMs": 1521138161124.0796,
+      "atime": "2018-03-15T18:23:31.224Z",
+      "mtime": "2018-03-15T18:23:31.224Z",
+      "ctime": "2018-03-15T18:23:31.224Z",
+      "birthtime": "2018-03-15T18:22:41.124Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components/Header absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components/Header absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0fd52a29b3b76099017fe26f860aa31d",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components/Header",
+      "relativePath": "components/Header",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-03-12T21:59:39.932Z",
+      "accessTime": "2018-03-12T21:59:39.932Z",
+      "changeTime": "2018-03-12T21:59:39.932Z",
+      "birthTime": "2018-03-12T21:59:39.932Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components",
+      "base": "Header",
+      "ext": "",
+      "name": "Header",
+      "relativeDirectory": "components",
+      "dev": 3774755464,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 17169973579453046,
+      "atimeMs": 1520891979932.1826,
+      "mtimeMs": 1520891979932.1826,
+      "ctimeMs": 1520891979932.1826,
+      "birthtimeMs": 1520891979931.684,
+      "atime": "2018-03-12T21:59:39.932Z",
+      "mtime": "2018-03-12T21:59:39.932Z",
+      "ctime": "2018-03-12T21:59:39.932Z",
+      "birthtime": "2018-03-12T21:59:39.932Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/index.js absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4a7aecb2bb14d15740c55b25d8b824fd",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/index.js",
+      "relativePath": "pages/index.js",
+      "extension": "js",
+      "size": 789,
+      "prettySize": "789 B",
+      "modifiedTime": "2018-03-18T17:10:15.520Z",
+      "accessTime": "2018-03-12T21:59:39.942Z",
+      "changeTime": "2018-03-18T17:10:15.520Z",
+      "birthTime": "2018-03-12T21:59:39.942Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "pages",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 14073748835636622,
+      "atimeMs": 1520891979941.6838,
+      "mtimeMs": 1521393015520.3145,
+      "ctimeMs": 1521393015520.3145,
+      "birthtimeMs": 1520891979941.6838,
+      "atime": "2018-03-12T21:59:39.942Z",
+      "mtime": "2018-03-18T17:10:15.520Z",
+      "ctime": "2018-03-18T17:10:15.520Z",
+      "birthtime": "2018-03-12T21:59:39.942Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/page-2.js absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/page-2.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f7ba5a15a65db9e94d458b50615c423c",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/page-2.js",
+      "relativePath": "pages/page-2.js",
+      "extension": "js",
+      "size": 257,
+      "prettySize": "257 B",
+      "modifiedTime": "2018-03-12T21:59:39.945Z",
+      "accessTime": "2018-03-12T21:59:39.944Z",
+      "changeTime": "2018-03-12T21:59:39.945Z",
+      "birthTime": "2018-03-12T21:59:39.944Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages",
+      "base": "page-2.js",
+      "ext": ".js",
+      "name": "page-2",
+      "relativeDirectory": "pages",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 26177172834194904,
+      "atimeMs": 1520891979943.6846,
+      "mtimeMs": 1520891979945.1846,
+      "ctimeMs": 1520891979945.1846,
+      "birthtimeMs": 1520891979943.6846,
+      "atime": "2018-03-12T21:59:39.944Z",
+      "mtime": "2018-03-12T21:59:39.945Z",
+      "ctime": "2018-03-12T21:59:39.945Z",
+      "birthtime": "2018-03-12T21:59:39.944Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/about.js absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/about.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8509bf4fcff9766194fd59a0afb7e356",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/about.js",
+      "relativePath": "pages/about.js",
+      "extension": "js",
+      "size": 661,
+      "prettySize": "661 B",
+      "modifiedTime": "2018-03-12T22:49:39.461Z",
+      "accessTime": "2018-03-12T22:42:01.098Z",
+      "changeTime": "2018-03-12T22:49:39.461Z",
+      "birthTime": "2018-03-12T22:42:01.098Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages",
+      "base": "about.js",
+      "ext": ".js",
+      "name": "about",
+      "relativeDirectory": "pages",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 14918173765708066,
+      "atimeMs": 1520894521097.6013,
+      "mtimeMs": 1520894979460.5867,
+      "ctimeMs": 1520894979460.5867,
+      "birthtimeMs": 1520894521097.6013,
+      "atime": "2018-03-12T22:42:01.098Z",
+      "mtime": "2018-03-12T22:49:39.461Z",
+      "ctime": "2018-03-12T22:49:39.461Z",
+      "birthtime": "2018-03-12T22:42:01.098Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/layouts/index.js absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/layouts/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2810ed0f2434f5993978dbc4995bf1c5",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/layouts/index.js",
+      "relativePath": "layouts/index.js",
+      "extension": "js",
+      "size": 1075,
+      "prettySize": "1.07 kB",
+      "modifiedTime": "2018-03-15T23:04:59.648Z",
+      "accessTime": "2018-03-12T21:59:39.937Z",
+      "changeTime": "2018-03-15T23:04:59.648Z",
+      "birthTime": "2018-03-12T21:59:39.937Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/layouts",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "layouts",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 69805794224345896,
+      "atimeMs": 1520891979936.684,
+      "mtimeMs": 1521155099648.3335,
+      "ctimeMs": 1521155099648.3335,
+      "birthtimeMs": 1520891979936.684,
+      "atime": "2018-03-12T21:59:39.937Z",
+      "mtime": "2018-03-15T23:04:59.648Z",
+      "ctime": "2018-03-15T23:04:59.648Z",
+      "birthtime": "2018-03-12T21:59:39.937Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/404.js absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8857de246387175d85e2e874b3d29120",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/404.js",
+      "relativePath": "pages/404.js",
+      "extension": "js",
+      "size": 208,
+      "prettySize": "208 B",
+      "modifiedTime": "2018-03-12T21:59:39.941Z",
+      "accessTime": "2018-03-12T21:59:39.938Z",
+      "changeTime": "2018-03-12T21:59:39.941Z",
+      "birthTime": "2018-03-12T21:59:39.938Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "pages",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 23080948090377028,
+      "atimeMs": 1520891979937.6853,
+      "mtimeMs": 1520891979941.1846,
+      "ctimeMs": 1520891979941.1846,
+      "birthtimeMs": 1520891979937.6853,
+      "atime": "2018-03-12T21:59:39.938Z",
+      "mtime": "2018-03-12T21:59:39.941Z",
+      "ctime": "2018-03-12T21:59:39.941Z",
+      "birthtime": "2018-03-12T21:59:39.938Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/layouts/index.css absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/layouts/index.css absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "57b18a3eb1a6e1a678e6d5b02dc25ea9",
+        "mediaType": "text/css",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/layouts/index.css",
+      "relativePath": "layouts/index.css",
+      "extension": "css",
+      "size": 11868,
+      "prettySize": "11.9 kB",
+      "modifiedTime": "2018-03-12T21:59:39.936Z",
+      "accessTime": "2018-03-12T21:59:39.936Z",
+      "changeTime": "2018-03-12T21:59:39.936Z",
+      "birthTime": "2018-03-12T21:59:39.936Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/layouts",
+      "base": "index.css",
+      "ext": ".css",
+      "name": "index",
+      "relativeDirectory": "layouts",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 23362423067087620,
+      "atimeMs": 1520891979935.683,
+      "mtimeMs": 1520891979936.184,
+      "ctimeMs": 1520891979936.184,
+      "birthtimeMs": 1520891979935.683,
+      "atime": "2018-03-12T21:59:39.936Z",
+      "mtime": "2018-03-12T21:59:39.936Z",
+      "ctime": "2018-03-12T21:59:39.936Z",
+      "birthtime": "2018-03-12T21:59:39.936Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fg.jpg absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fg.jpg absPath of file",
+      "children": [
+        "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fg.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6e8e3f870bf9723e37d85fcd747f2efb",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fg.jpg",
+      "relativePath": "images/fg.jpg",
+      "extension": "jpg",
+      "size": 52458,
+      "prettySize": "52.5 kB",
+      "modifiedTime": "2018-02-21T15:35:33.982Z",
+      "accessTime": "2018-03-13T18:01:06.641Z",
+      "changeTime": "2018-03-17T13:03:08.957Z",
+      "birthTime": "2018-03-13T18:01:06.641Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "base": "fg.jpg",
+      "ext": ".jpg",
+      "name": "fg",
+      "relativeDirectory": "images",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 8162774324681668,
+      "atimeMs": 1520964066640.93,
+      "mtimeMs": 1519227333982.1528,
+      "ctimeMs": 1521291788957.3762,
+      "birthtimeMs": 1520964066640.93,
+      "atime": "2018-03-13T18:01:06.641Z",
+      "mtime": "2018-02-21T15:35:33.982Z",
+      "ctime": "2018-03-17T13:03:08.957Z",
+      "birthtime": "2018-03-13T18:01:06.641Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgPtoLogo2.svg absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgPtoLogo2.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "94e4c84584ac3195c296b973c049ea38",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgPtoLogo2.svg",
+      "relativePath": "images/fgPtoLogo2.svg",
+      "extension": "svg",
+      "size": 26729,
+      "prettySize": "26.7 kB",
+      "modifiedTime": "2018-03-14T15:02:33.357Z",
+      "accessTime": "2018-03-14T14:52:19.156Z",
+      "changeTime": "2018-03-14T15:02:33.357Z",
+      "birthTime": "2018-03-14T14:52:14.678Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "base": "fgPtoLogo2.svg",
+      "ext": ".svg",
+      "name": "fgPtoLogo2",
+      "relativeDirectory": "images",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 2533274790919227,
+      "atimeMs": 1521039139155.7783,
+      "mtimeMs": 1521039753357.0232,
+      "ctimeMs": 1521039753357.0232,
+      "birthtimeMs": 1521039134677.5686,
+      "atime": "2018-03-14T14:52:19.156Z",
+      "mtime": "2018-03-14T15:02:33.357Z",
+      "ctime": "2018-03-14T15:02:33.357Z",
+      "birthtime": "2018-03-14T14:52:14.678Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgPtoLogo.svg absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgPtoLogo.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9d06104c3e7f7eb56d6c60f1660b9c6f",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgPtoLogo.svg",
+      "relativePath": "images/fgPtoLogo.svg",
+      "extension": "svg",
+      "size": 26237,
+      "prettySize": "26.2 kB",
+      "modifiedTime": "2018-03-14T14:43:50.635Z",
+      "accessTime": "2018-03-14T14:35:42.502Z",
+      "changeTime": "2018-03-14T14:43:50.635Z",
+      "birthTime": "2018-03-14T14:35:42.502Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "base": "fgPtoLogo.svg",
+      "ext": ".svg",
+      "name": "fgPtoLogo",
+      "relativeDirectory": "images",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3096224744340492,
+      "atimeMs": 1521038142502.2793,
+      "mtimeMs": 1521038630635.1638,
+      "ctimeMs": 1521038630635.1638,
+      "birthtimeMs": 1521038142502.2793,
+      "atime": "2018-03-14T14:35:42.502Z",
+      "mtime": "2018-03-14T14:43:50.635Z",
+      "ctime": "2018-03-14T14:43:50.635Z",
+      "birthtime": "2018-03-14T14:35:42.502Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/post.md absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/post.md absPath of file",
+      "children": [
+        "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/post.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a98e9c4ea64445af6965bc159e1c89e7",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/post.md",
+      "relativePath": "posts/post.md",
+      "extension": "md",
+      "size": 3142,
+      "prettySize": "3.14 kB",
+      "modifiedTime": "2018-03-16T12:03:33.381Z",
+      "accessTime": "2018-03-16T12:03:33.381Z",
+      "changeTime": "2018-03-16T12:03:33.382Z",
+      "birthTime": "2018-03-15T18:04:34.529Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts",
+      "base": "post.md",
+      "ext": ".md",
+      "name": "post",
+      "relativeDirectory": "posts",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 14636698789030936,
+      "atimeMs": 1521201813381,
+      "mtimeMs": 1521201813381,
+      "ctimeMs": 1521201813381.7126,
+      "birthtimeMs": 1521137074529.3003,
+      "atime": "2018-03-16T12:03:33.381Z",
+      "mtime": "2018-03-16T12:03:33.381Z",
+      "ctime": "2018-03-16T12:03:33.382Z",
+      "birthtime": "2018-03-15T18:04:34.529Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/PostPage.js absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/PostPage.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7b10671afd7b3603e34e3c932fbff4b4",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/PostPage.js",
+      "relativePath": "posts/PostPage.js",
+      "extension": "js",
+      "size": 850,
+      "prettySize": "850 B",
+      "modifiedTime": "2018-03-15T20:09:42.710Z",
+      "accessTime": "2018-03-15T19:46:14.280Z",
+      "changeTime": "2018-03-15T20:09:42.710Z",
+      "birthTime": "2018-03-15T19:46:14.280Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts",
+      "base": "PostPage.js",
+      "ext": ".js",
+      "name": "PostPage",
+      "relativeDirectory": "posts",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 29273397577945740,
+      "atimeMs": 1521143174279.563,
+      "mtimeMs": 1521144582709.6099,
+      "ctimeMs": 1521144582709.6099,
+      "birthtimeMs": 1521143174279.563,
+      "atime": "2018-03-15T19:46:14.280Z",
+      "mtime": "2018-03-15T20:09:42.710Z",
+      "ctime": "2018-03-15T20:09:42.710Z",
+      "birthtime": "2018-03-15T19:46:14.280Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components/Posts/PostListing.js absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components/Posts/PostListing.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ef737a88e069cd0ac388d247ba2ae4c9",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components/Posts/PostListing.js",
+      "relativePath": "components/Posts/PostListing.js",
+      "extension": "js",
+      "size": 307,
+      "prettySize": "307 B",
+      "modifiedTime": "2018-03-15T20:11:38.610Z",
+      "accessTime": "2018-03-15T18:41:12.223Z",
+      "changeTime": "2018-03-15T20:11:38.610Z",
+      "birthTime": "2018-03-15T18:23:31.224Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components/Posts",
+      "base": "PostListing.js",
+      "ext": ".js",
+      "name": "PostListing",
+      "relativeDirectory": "components\\Posts",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 45035996273770060,
+      "atimeMs": 1521139272223,
+      "mtimeMs": 1521144698609.84,
+      "ctimeMs": 1521144698609.84,
+      "birthtimeMs": 1521138211223.7632,
+      "atime": "2018-03-15T18:41:12.223Z",
+      "mtime": "2018-03-15T20:11:38.610Z",
+      "ctime": "2018-03-15T20:11:38.610Z",
+      "birthtime": "2018-03-15T18:23:31.224Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/mrsNelson.svg absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/mrsNelson.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7d9374056c0d1ef3f3f63202980a128f",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/mrsNelson.svg",
+      "relativePath": "images/mrsNelson.svg",
+      "extension": "svg",
+      "size": 28294,
+      "prettySize": "28.3 kB",
+      "modifiedTime": "2018-03-17T15:57:56.137Z",
+      "accessTime": "2018-03-17T15:57:56.090Z",
+      "changeTime": "2018-03-17T15:57:56.146Z",
+      "birthTime": "2018-03-17T15:57:51.050Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "base": "mrsNelson.svg",
+      "ext": ".svg",
+      "name": "mrsNelson",
+      "relativeDirectory": "images",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 23362423066993256,
+      "atimeMs": 1521302276090.3154,
+      "mtimeMs": 1521302276137.2993,
+      "ctimeMs": 1521302276146.2947,
+      "birthtimeMs": 1521302271049.5596,
+      "atime": "2018-03-17T15:57:56.090Z",
+      "mtime": "2018-03-17T15:57:56.137Z",
+      "ctime": "2018-03-17T15:57:56.146Z",
+      "birthtime": "2018-03-17T15:57:51.050Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/our-second-post.md absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/our-second-post.md absPath of file",
+      "children": [
+        "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/our-second-post.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "bbc6b760a3272c18ef7da56547060021",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/our-second-post.md",
+      "relativePath": "posts/our-second-post.md",
+      "extension": "md",
+      "size": 1794,
+      "prettySize": "1.79 kB",
+      "modifiedTime": "2018-03-16T12:05:12.579Z",
+      "accessTime": "2018-03-16T12:03:26.816Z",
+      "changeTime": "2018-03-16T12:05:12.579Z",
+      "birthTime": "2018-03-16T12:03:26.816Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts",
+      "base": "our-second-post.md",
+      "ext": ".md",
+      "name": "our-second-post",
+      "relativeDirectory": "posts",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 75153818781764540,
+      "atimeMs": 1521201806816.2927,
+      "mtimeMs": 1521201912578.6443,
+      "ctimeMs": 1521201912578.6443,
+      "birthtimeMs": 1521201806816.2927,
+      "atime": "2018-03-16T12:03:26.816Z",
+      "mtime": "2018-03-16T12:05:12.579Z",
+      "ctime": "2018-03-16T12:05:12.579Z",
+      "birthtime": "2018-03-16T12:03:26.816Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components/Header/index.js absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components/Header/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "81055e589faf728183182d72728932fc",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components/Header/index.js",
+      "relativePath": "components/Header/index.js",
+      "extension": "js",
+      "size": 3006,
+      "prettySize": "3.01 kB",
+      "modifiedTime": "2018-03-16T20:25:23.719Z",
+      "accessTime": "2018-03-15T21:23:41.670Z",
+      "changeTime": "2018-03-16T20:25:23.719Z",
+      "birthTime": "2018-03-12T21:59:39.932Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/components/Header",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "components\\Header",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 41658296553280130,
+      "atimeMs": 1521149021670,
+      "mtimeMs": 1521231923719.1694,
+      "ctimeMs": 1521231923719.1694,
+      "birthtimeMs": 1520891979932.1826,
+      "atime": "2018-03-15T21:23:41.670Z",
+      "mtime": "2018-03-16T20:25:23.719Z",
+      "ctime": "2018-03-16T20:25:23.719Z",
+      "birthtime": "2018-03-12T21:59:39.932Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgLogo2.png absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgLogo2.png absPath of file",
+      "children": [
+        "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgLogo2.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "cdc6e1a06c9361a7fb8d4c07bb22837d",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgLogo2.png",
+      "relativePath": "images/fgLogo2.png",
+      "extension": "png",
+      "size": 126267,
+      "prettySize": "126 kB",
+      "modifiedTime": "2018-03-17T13:53:59.484Z",
+      "accessTime": "2018-03-17T13:53:59.015Z",
+      "changeTime": "2018-03-17T13:54:11.668Z",
+      "birthTime": "2018-03-17T13:53:55.537Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "base": "fgLogo2.png",
+      "ext": ".png",
+      "name": "fgLogo2",
+      "relativeDirectory": "images",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 108649341010334000,
+      "atimeMs": 1521294839014.588,
+      "mtimeMs": 1521294839483.5933,
+      "ctimeMs": 1521294851668.0747,
+      "birthtimeMs": 1521294835536.964,
+      "atime": "2018-03-17T13:53:59.015Z",
+      "mtime": "2018-03-17T13:53:59.484Z",
+      "ctime": "2018-03-17T13:54:11.668Z",
+      "birthtime": "2018-03-17T13:53:55.537Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgLogo.png absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgLogo.png absPath of file",
+      "children": [
+        "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgLogo.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a84b97c09f9456bc0534390a185fd750",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgLogo.png",
+      "relativePath": "images/fgLogo.png",
+      "extension": "png",
+      "size": 69123,
+      "prettySize": "69.1 kB",
+      "modifiedTime": "2018-03-17T13:49:32.614Z",
+      "accessTime": "2018-03-17T13:49:32.383Z",
+      "changeTime": "2018-03-17T13:50:07.106Z",
+      "birthTime": "2018-03-17T13:49:20.589Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "base": "fgLogo.png",
+      "ext": ".png",
+      "name": "fgLogo",
+      "relativeDirectory": "images",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3940649674371572,
+      "atimeMs": 1521294572382.8865,
+      "mtimeMs": 1521294572613.8616,
+      "ctimeMs": 1521294607105.9067,
+      "birthtimeMs": 1521294560588.8074,
+      "atime": "2018-03-17T13:49:32.383Z",
+      "mtime": "2018-03-17T13:49:32.614Z",
+      "ctime": "2018-03-17T13:50:07.106Z",
+      "birthtime": "2018-03-17T13:49:20.589Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fg.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fg.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fg.jpg absPath of file",
+      "internal": {
+        "contentDigest": "6e8e3f870bf9723e37d85fcd747f2efb",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgPtoLogo3.png absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgPtoLogo3.png absPath of file",
+      "children": [
+        "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgPtoLogo3.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2835315163590003c5ea11c9e18f9465",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgPtoLogo3.png",
+      "relativePath": "images/fgPtoLogo3.png",
+      "extension": "png",
+      "size": 135971,
+      "prettySize": "136 kB",
+      "modifiedTime": "2018-03-17T14:24:16.999Z",
+      "accessTime": "2018-03-17T14:24:16.646Z",
+      "changeTime": "2018-03-17T14:24:45.568Z",
+      "birthTime": "2018-03-17T14:24:13.016Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "base": "fgPtoLogo3.png",
+      "ext": ".png",
+      "name": "fgPtoLogo3",
+      "relativeDirectory": "images",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 43910096366864060,
+      "atimeMs": 1521296656645.5317,
+      "mtimeMs": 1521296656998.524,
+      "ctimeMs": 1521296685568.4768,
+      "birthtimeMs": 1521296653015.5615,
+      "atime": "2018-03-17T14:24:16.646Z",
+      "mtime": "2018-03-17T14:24:16.999Z",
+      "ctime": "2018-03-17T14:24:45.568Z",
+      "birthtime": "2018-03-17T14:24:13.016Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgLogo2.png absPath of file >> ImageSharp": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgLogo2.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgLogo2.png absPath of file",
+      "internal": {
+        "contentDigest": "cdc6e1a06c9361a7fb8d4c07bb22837d",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgLogo.png absPath of file >> ImageSharp": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgLogo.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgLogo.png absPath of file",
+      "internal": {
+        "contentDigest": "a84b97c09f9456bc0534390a185fd750",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/reminderStudentHoliday.png absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/reminderStudentHoliday.png absPath of file",
+      "children": [
+        "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/reminderStudentHoliday.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "11a5ad42991fe7eeb0d689ea2369c646",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/reminderStudentHoliday.png",
+      "relativePath": "images/reminderStudentHoliday.png",
+      "extension": "png",
+      "size": 141721,
+      "prettySize": "142 kB",
+      "modifiedTime": "2018-03-15T12:34:57.933Z",
+      "accessTime": "2018-03-15T12:34:56.850Z",
+      "changeTime": "2018-03-15T12:34:57.933Z",
+      "birthTime": "2018-03-15T12:31:20.039Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "base": "reminderStudentHoliday.png",
+      "ext": ".png",
+      "name": "reminderStudentHoliday",
+      "relativeDirectory": "images",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 113434415614404860,
+      "atimeMs": 1521117296850.017,
+      "mtimeMs": 1521117297933.3374,
+      "ctimeMs": 1521117297933.3374,
+      "birthtimeMs": 1521117080038.7917,
+      "atime": "2018-03-15T12:34:56.850Z",
+      "mtime": "2018-03-15T12:34:57.933Z",
+      "ctime": "2018-03-15T12:34:57.933Z",
+      "birthtime": "2018-03-15T12:31:20.039Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgPtoLogo3.png absPath of file >> ImageSharp": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgPtoLogo3.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fgPtoLogo3.png absPath of file",
+      "internal": {
+        "contentDigest": "2835315163590003c5ea11c9e18f9465",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/reminderStudentHoliday.png absPath of file >> ImageSharp": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/reminderStudentHoliday.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/reminderStudentHoliday.png absPath of file",
+      "internal": {
+        "contentDigest": "11a5ad42991fe7eeb0d689ea2369c646",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/mrsNicole.png absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/mrsNicole.png absPath of file",
+      "children": [
+        "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/mrsNicole.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0ff30fa3126e6cfd83c2e426ddd29bab",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/mrsNicole.png",
+      "relativePath": "images/mrsNicole.png",
+      "extension": "png",
+      "size": 277173,
+      "prettySize": "277 kB",
+      "modifiedTime": "2018-03-17T15:49:35.184Z",
+      "accessTime": "2018-03-17T15:49:33.647Z",
+      "changeTime": "2018-03-17T15:49:35.193Z",
+      "birthTime": "2018-03-17T14:47:07.201Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "base": "mrsNicole.png",
+      "ext": ".png",
+      "name": "mrsNicole",
+      "relativeDirectory": "images",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 17451448556070164,
+      "atimeMs": 1521301773646.8357,
+      "mtimeMs": 1521301775183.9658,
+      "ctimeMs": 1521301775192.9233,
+      "birthtimeMs": 1521298027201.4907,
+      "atime": "2018-03-17T15:49:33.647Z",
+      "mtime": "2018-03-17T15:49:35.184Z",
+      "ctime": "2018-03-17T15:49:35.193Z",
+      "birthtime": "2018-03-17T14:47:07.201Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/post.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/post.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/post.md absPath of file",
+      "internal": {
+        "content": "---\r\ntitle: \"Welcome to the new blog\"\r\ndate: \"2018-03-15\"\r\n---\r\n\r\nLorem ipsum dolor amet you probably haven't heard of them messenger bag fashion axe, master cleanse authentic intelligentsia enamel pin hot chicken direct trade quinoa copper mug fam street art ugh flexitarian. Cronut VHS microdosing hot chicken cornhole enamel pin master cleanse glossier banh mi DIY woke migas. Pok pok mixtape cloud bread ethical. Authentic art party mustache stumptown craft beer copper mug gentrify artisan hella typewriter subway tile messenger bag fashion axe selvage. Typewriter keytar meh, before they sold out raclette la croix roof party squid artisan crucifix glossier tbh tacos hashtag. Wayfarers crucifix listicle bicycle rights butcher. Authentic crucifix subway tile, salvia next level twee keffiyeh activated charcoal aesthetic truffaut cold-pressed mumblecore franzen fashion axe raclette.\r\n\r\n<!-- end -->\r\n\r\nListicle +1 YOLO tote bag. Woke glossier leggings flexitarian stumptown photo booth cray taiyaki marfa put a bird on it tofu blue bottle microdosing pok pok. Flannel 3 wolf moon fashion axe portland semiotics food truck godard offal celiac ennui keffiyeh hammock keytar 90's. Organic aesthetic pinterest, austin mumblecore air plant YOLO letterpress whatever chambray keytar hoodie shoreditch. Salvia flexitarian jianbing, migas vaporware adaptogen umami semiotics kombucha sustainable master cleanse man bun.\r\n\r\nLocavore meh edison bulb, VHS freegan lumbersexual food truck unicorn. Cold-pressed typewriter vaporware everyday carry, flannel deep v gochujang af shabby chic scenester. Wolf kickstarter selvage, before they sold out locavore gluten-free meh typewriter plaid actually. Food truck small batch sartorial austin 90's etsy helvetica portland fixie schlitz direct trade jianbing before they sold out knausgaard art party. Migas +1 af chia tattooed williamsburg vegan selvage.\r\n\r\nVaporware pickled ramps butcher bitters sustainable hoodie. Blog banjo seitan PBR&B, cray heirloom tousled. Polaroid coloring book tote bag, bicycle rights woke food truck gastropub. Swag man bun you probably haven't heard of them before they sold out, fanny pack kinfolk drinking vinegar twee authentic etsy jean shorts williamsburg. Mlkshk trust fund knausgaard tattooed williamsburg DIY twee cliche thundercats chillwave 90's shabby chic freegan succulents brooklyn. Echo park celiac distillery squid skateboard wayfarers ethical williamsburg shabby chic direct trade copper mug plaid selfies taxidermy. Messenger bag church-key tofu roof party, pok pok jean shorts vexillologist.\r\n\r\nCold-pressed bespoke tote bag williamsburg narwhal chia lyft, VHS knausgaard aesthetic intelligentsia tumblr coloring book church-key. Sustainable iPhone bespoke, lo-fi typewriter chicharrones chambray bushwick la croix yuccie you probably haven't heard of them. Taxidermy literally XOXO asymmetrical craft beer keytar. Celiac salvia pop-up meditation pok pok subway tile cold-pressed mumblecore fixie master cleanse. 90's austin lomo yuccie 3 wolf moon master cleanse. Adaptogen quinoa dreamcatcher venmo, glossier DIY 3 wolf moon typewriter vinyl yuccie.",
+        "type": "MarkdownRemark",
+        "contentDigest": "b12dc7327cd1a828c48118f73eba55fc",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Welcome to the new blog",
+        "date": "2018-03-15",
+        "_PARENT": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/post.md absPath of file",
+        "parent": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/post.md absPath of file"
+      },
+      "excerpt": "\r\nLorem ipsum dolor amet you probably haven't heard of them messenger bag fashion axe, master cleanse authentic intelligentsia enamel pin hot chicken direct trade quinoa copper mug fam street art ugh flexitarian. Cronut VHS microdosing hot chicken cornhole enamel pin master cleanse glossier banh mi DIY woke migas. Pok pok mixtape cloud bread ethical. Authentic art party mustache stumptown craft beer copper mug gentrify artisan hella typewriter subway tile messenger bag fashion axe selvage. Typewriter keytar meh, before they sold out raclette la croix roof party squid artisan crucifix glossier tbh tacos hashtag. Wayfarers crucifix listicle bicycle rights butcher. Authentic crucifix subway tile, salvia next level twee keffiyeh activated charcoal aesthetic truffaut cold-pressed mumblecore franzen fashion axe raclette.\r\n\r\n",
+      "fileAbsolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/post.md",
+      "fields": {
+        "slug": "/posts/post/"
+      }
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/our-second-post.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/our-second-post.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/our-second-post.md absPath of file",
+      "internal": {
+        "content": "---\r\ntitle: \"Our Second Blog Post\"\r\ndate: \"2018-03-16\"\r\n---\r\nLocavore meh edison bulb, VHS freegan lumbersexual food truck unicorn. Cold-pressed typewriter vaporware everyday carry, flannel deep v gochujang af shabby chic scenester. Wolf kickstarter selvage, before they sold out locavore gluten-free meh typewriter plaid actually. Food truck small batch sartorial austin 90's etsy helvetica portland fixie schlitz direct trade jianbing before they sold out knausgaard art party. Migas +1 af chia tattooed williamsburg vegan selvage.\r\n<!-- end -->\r\n\r\nVaporware pickled ramps butcher bitters sustainable hoodie. Blog banjo seitan PBR&B, cray heirloom tousled. Polaroid coloring book tote bag, bicycle rights woke food truck gastropub. Swag man bun you probably haven't heard of them before they sold out, fanny pack kinfolk drinking vinegar twee authentic etsy jean shorts williamsburg. Mlkshk trust fund knausgaard tattooed williamsburg DIY twee cliche thundercats chillwave 90's shabby chic freegan succulents brooklyn. Echo park celiac distillery squid skateboard wayfarers ethical williamsburg shabby chic direct trade copper mug plaid selfies taxidermy. Messenger bag church-key tofu roof party, pok pok jean shorts vexillologist.\r\n\r\nCold-pressed bespoke tote bag williamsburg narwhal chia lyft, VHS knausgaard aesthetic intelligentsia tumblr coloring book church-key. Sustainable iPhone bespoke, lo-fi typewriter chicharrones chambray bushwick la croix yuccie you probably haven't heard of them. Taxidermy literally XOXO asymmetrical craft beer keytar. Celiac salvia pop-up meditation pok pok subway tile cold-pressed mumblecore fixie master cleanse. 90's austin lomo yuccie 3 wolf moon master cleanse. Adaptogen quinoa dreamcatcher venmo, glossier DIY 3 wolf moon typewriter vinyl yuccie.",
+        "type": "MarkdownRemark",
+        "contentDigest": "723b8052c91b8d055027bfa482d8ecba",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Our Second Blog Post",
+        "date": "2018-03-16",
+        "_PARENT": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/our-second-post.md absPath of file",
+        "parent": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/our-second-post.md absPath of file"
+      },
+      "excerpt": "Locavore meh edison bulb, VHS freegan lumbersexual food truck unicorn. Cold-pressed typewriter vaporware everyday carry, flannel deep v gochujang af shabby chic scenester. Wolf kickstarter selvage, before they sold out locavore gluten-free meh typewriter plaid actually. Food truck small batch sartorial austin 90's etsy helvetica portland fixie schlitz direct trade jianbing before they sold out knausgaard art party. Migas +1 af chia tattooed williamsburg vegan selvage.\r\n",
+      "fileAbsolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/our-second-post.md",
+      "fields": {
+        "slug": "/posts/our-second-post/"
+      }
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/books.jpg absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/books.jpg absPath of file",
+      "children": [
+        "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/books.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a0b126733f6db7f721e8e4acbbd8ac1c",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/books.jpg",
+      "relativePath": "images/books.jpg",
+      "extension": "jpg",
+      "size": 424964,
+      "prettySize": "425 kB",
+      "modifiedTime": "2018-03-15T22:53:56.305Z",
+      "accessTime": "2018-03-15T22:53:23.460Z",
+      "changeTime": "2018-03-15T23:03:21.569Z",
+      "birthTime": "2018-03-15T22:53:55.836Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "base": "books.jpg",
+      "ext": ".jpg",
+      "name": "books",
+      "relativeDirectory": "images",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 43065671436751710,
+      "atimeMs": 1521154403460.1206,
+      "mtimeMs": 1521154436305.1694,
+      "ctimeMs": 1521155001568.6934,
+      "birthtimeMs": 1521154435836.1892,
+      "atime": "2018-03-15T22:53:23.460Z",
+      "mtime": "2018-03-15T22:53:56.305Z",
+      "ctime": "2018-03-15T23:03:21.569Z",
+      "birthtime": "2018-03-15T22:53:55.836Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/mrsNicole.png absPath of file >> ImageSharp": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/mrsNicole.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/mrsNicole.png absPath of file",
+      "internal": {
+        "contentDigest": "0ff30fa3126e6cfd83c2e426ddd29bab",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/books.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/books.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/books.jpg absPath of file",
+      "internal": {
+        "contentDigest": "a0b126733f6db7f721e8e4acbbd8ac1c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fl1.svg absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fl1.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6548aa66a586e25e5f171120db569461",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/fl1.svg",
+      "relativePath": "images/fl1.svg",
+      "extension": "svg",
+      "size": 1024660,
+      "prettySize": "1.02 MB",
+      "modifiedTime": "2018-03-14T21:40:00.592Z",
+      "accessTime": "2018-03-14T21:40:00.561Z",
+      "changeTime": "2018-03-17T13:47:27.857Z",
+      "birthTime": "2018-03-14T21:39:52.747Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "base": "fl1.svg",
+      "ext": ".svg",
+      "name": "fl1",
+      "relativeDirectory": "images",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3940649674535268,
+      "atimeMs": 1521063600560.992,
+      "mtimeMs": 1521063600592.0005,
+      "ctimeMs": 1521294447856.7578,
+      "birthtimeMs": 1521063592746.5828,
+      "atime": "2018-03-14T21:40:00.561Z",
+      "mtime": "2018-03-14T21:40:00.592Z",
+      "ctime": "2018-03-17T13:47:27.857Z",
+      "birthtime": "2018-03-14T21:39:52.747Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/booksReverse.jpg absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/booksReverse.jpg absPath of file",
+      "children": [
+        "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/booksReverse.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "42ba1ccfb93350328f52ca6e725650f5",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/booksReverse.jpg",
+      "relativePath": "images/booksReverse.jpg",
+      "extension": "jpg",
+      "size": 1435439,
+      "prettySize": "1.44 MB",
+      "modifiedTime": "2018-03-15T23:04:06.970Z",
+      "accessTime": "2018-03-15T23:04:06.764Z",
+      "changeTime": "2018-03-15T23:04:06.975Z",
+      "birthTime": "2018-03-15T23:04:02.951Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "base": "booksReverse.jpg",
+      "ext": ".jpg",
+      "name": "booksReverse",
+      "relativeDirectory": "images",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 7318349394999788,
+      "atimeMs": 1521155046764.4934,
+      "mtimeMs": 1521155046969.7185,
+      "ctimeMs": 1521155046974.7214,
+      "birthtimeMs": 1521155042951.142,
+      "atime": "2018-03-15T23:04:06.764Z",
+      "mtime": "2018-03-15T23:04:06.970Z",
+      "ctime": "2018-03-15T23:04:06.975Z",
+      "birthtime": "2018-03-15T23:04:02.951Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/booksReverse.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/booksReverse.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/booksReverse.jpg absPath of file",
+      "internal": {
+        "contentDigest": "42ba1ccfb93350328f52ca6e725650f5",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/mrsNelson.eps absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/mrsNelson.eps absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7f7afdb5a686efef0b34e6178efd4246",
+        "mediaType": "application/postscript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/mrsNelson.eps",
+      "relativePath": "images/mrsNelson.eps",
+      "extension": "eps",
+      "size": 2217798,
+      "prettySize": "2.22 MB",
+      "modifiedTime": "2018-03-17T15:58:14.023Z",
+      "accessTime": "2018-03-17T15:58:11.618Z",
+      "changeTime": "2018-03-17T15:58:14.038Z",
+      "birthTime": "2018-03-17T15:58:07.584Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "base": "mrsNelson.eps",
+      "ext": ".eps",
+      "name": "mrsNelson",
+      "relativeDirectory": "images",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 292171025825663600,
+      "atimeMs": 1521302291617.567,
+      "mtimeMs": 1521302294023.312,
+      "ctimeMs": 1521302294038.3503,
+      "birthtimeMs": 1521302287583.645,
+      "atime": "2018-03-17T15:58:11.618Z",
+      "mtime": "2018-03-17T15:58:14.023Z",
+      "ctime": "2018-03-17T15:58:14.038Z",
+      "birthtime": "2018-03-17T15:58:07.584Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/pencils.jpg absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/pencils.jpg absPath of file",
+      "children": [
+        "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/pencils.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "04b2409671a97433c0889e3492e6ec6e",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/pencils.jpg",
+      "relativePath": "images/pencils.jpg",
+      "extension": "jpg",
+      "size": 3265096,
+      "prettySize": "3.27 MB",
+      "modifiedTime": "2018-03-15T22:40:18.430Z",
+      "accessTime": "2018-03-15T22:40:17.964Z",
+      "changeTime": "2018-03-15T22:40:18.446Z",
+      "birthTime": "2018-03-15T22:40:07.255Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "base": "pencils.jpg",
+      "ext": ".jpg",
+      "name": "pencils",
+      "relativeDirectory": "images",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 15199648742441972,
+      "atimeMs": 1521153617963.8894,
+      "mtimeMs": 1521153618430.338,
+      "ctimeMs": 1521153618445.9714,
+      "birthtimeMs": 1521153607254.668,
+      "atime": "2018-03-15T22:40:17.964Z",
+      "mtime": "2018-03-15T22:40:18.430Z",
+      "ctime": "2018-03-15T22:40:18.446Z",
+      "birthtime": "2018-03-15T22:40:07.255Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/pencils.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/pencils.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/pencils.jpg absPath of file",
+      "internal": {
+        "contentDigest": "04b2409671a97433c0889e3492e6ec6e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/beachUmbrella.jpg absPath of file": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/beachUmbrella.jpg absPath of file",
+      "children": [
+        "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/beachUmbrella.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "75081c8b7a436268f5b3a4f6c1b0cb5d",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/beachUmbrella.jpg",
+      "relativePath": "images/beachUmbrella.jpg",
+      "extension": "jpg",
+      "size": 9823500,
+      "prettySize": "9.82 MB",
+      "modifiedTime": "2018-03-13T15:32:39.195Z",
+      "accessTime": "2018-03-14T22:19:44.482Z",
+      "changeTime": "2018-03-13T15:32:39.199Z",
+      "birthTime": "2018-03-14T22:19:44.482Z",
+      "root": "C:/",
+      "dir": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images",
+      "base": "beachUmbrella.jpg",
+      "ext": ".jpg",
+      "name": "beachUmbrella",
+      "relativeDirectory": "images",
+      "dev": 3774755464,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3940649674528685,
+      "atimeMs": 1521065984481.8132,
+      "mtimeMs": 1520955159194.7737,
+      "ctimeMs": 1520955159198.766,
+      "birthtimeMs": 1521065984481.8132,
+      "atime": "2018-03-14T22:19:44.482Z",
+      "mtime": "2018-03-13T15:32:39.195Z",
+      "ctime": "2018-03-13T15:32:39.199Z",
+      "birthtime": "2018-03-14T22:19:44.482Z"
+    },
+    "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/beachUmbrella.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/beachUmbrella.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/beachUmbrella.jpg absPath of file",
+      "internal": {
+        "contentDigest": "75081c8b7a436268f5b3a4f6c1b0cb5d",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /posts/post/": {
+      "layout": "index",
+      "jsonName": "posts-post.json",
+      "internalComponentName": "ComponentPostsPost",
+      "path": "/posts/post/",
+      "component": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/PostPage.js",
+      "componentChunkName": "component---src-posts-post-page-js",
+      "context": {
+        "slug": "/posts/post/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/PostPage.js",
+      "id": "SitePage /posts/post/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0b3cebd0930babdcddee9d8dcb0d77c1",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/our-second-post/": {
+      "layout": "index",
+      "jsonName": "posts-our-second-post.json",
+      "internalComponentName": "ComponentPostsOurSecondPost",
+      "path": "/posts/our-second-post/",
+      "component": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/PostPage.js",
+      "componentChunkName": "component---src-posts-post-page-js",
+      "context": {
+        "slug": "/posts/our-second-post/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/PostPage.js",
+      "id": "SitePage /posts/our-second-post/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f8ce097eab48936472fc753297266c05",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d4549463edabd2da1378225f7ded4822",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "24f429b3391c5557404579346ba40790",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fd4df9b57db7095090bd44a8e62122d1",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "layout": "index",
+      "jsonName": "page-2.json",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9b148f0b9ddc48730f3a6083c5726d06",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3346ed5da208a4f92b14b9ca6394c3d8",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "c0210f665c595b4941cd4ce01506f0f7"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/our-second-post.md absPath of file >>> MarkdownRemark": [
+        "/posts/our-second-post/"
+      ],
+      "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/posts/post.md absPath of file >>> MarkdownRemark": [
+        "/posts/post/"
+      ],
+      "Site": [
+        "/",
+        "LAYOUT___index"
+      ],
+      "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/booksReverse.jpg absPath of file >> ImageSharp": [
+        "LAYOUT___index"
+      ],
+      "C:/Users/nelsons/Documents/GitHub/Gatsby/fairglen-blog/src/images/booksReverse.jpg absPath of file": [
+        null
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/"
+      ]
+    }
+  }
+}
