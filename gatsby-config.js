@@ -3,7 +3,7 @@ module.exports = {
     title: 'Fairglen Elementary Parent Teacher Organization',
     desc: 'Parents and teachers working together for our children'
   },
-  pathPrefix: "/gatsby",
+  pathPrefix: "/blog",
   plugins: [
     'gatsby-plugin-react-helmet', 
     'gatsby-plugin-styled-components',
